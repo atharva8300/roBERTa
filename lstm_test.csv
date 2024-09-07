@@ -1,0 +1,501 @@
+index,text,label,preds,rnn_preds,lstm_preds
+0,detainees seen minimal threat washington alleged al qaeda taliban inmates us military prison guantanamo bay cuba likely freed sent home countries investigation many pose little threat providing much valuable intelligence facilitys deputy commander said,0,0,0,0
+1,japans army works plan cope north korean terror attack afp afp japans army worked secret plan deal possible largescale terror attacks north korea press report said,0,0,0,0
+2,un council arrives nairobi un security council members arrived nairobi twoday meeting devoted conflicts engulfing sudan including western darfur region,0,0,0,0
+3,apec ministers urge new effort trade talks pacific rim trading nations said wednesday pool influence energize talks free world trade trade foreign ministers member asiapacific,0,0,0,0
+4,least five dead russia mine blast reuters reuters least five miners killed injured blast coal mine russias siberia emergencies ministry said thursday,0,0,0,0
+5,australia establish run lead third india test afp afp australia batted cautiously second innings build lead runs india nine wickets hand third cricket test,0,1,1,1
+6,indonesia businesses hopeful election suffering two shambling administrations indonesia appears new president many business leaders say believe uproot corruption revive investment,0,0,0,0
+7,georgian president calls international conference south ossetia tbilisi georgia georgian president mikhail saakashvili appealed world leaders tuesday convene international conference conflict breakaway south ossetia daily exchanges gunfire threaten spark,0,0,0,0
+8,gangs prowl stormwracked haiti ap ap victims lost relatives homes belongings tropical storm jeanne tormented street gangs attack food convoys raid homes night shoot get way,0,0,0,0
+9,india never become international liability manmohan singh india news gt hague indian prime minister dr manmohan singh said despite three changes government past years since economic reforms introduced country roll back reforms programme,0,0,0,0
+10,blame pinned british home secretary exposing affair afp afp blame falls home secretary david blunkett exposing threeyear affair married publisher spectator magazine charges latest issue,0,0,0,0
+11,german investor confidence slumped september berlin german investor confidence dropped sharply september key economic indicator released tuesday showed amid concerns impact high oil prices consumer demand outlook global economy,0,2,2,2
+12,ukraines yanukovich run repeat vote kiev reuters ukrainian prime minister viktor yanukovich said saturday would stand opposition liberal viktor yushchenko rerun contested presidential election defiantly vowed would win,0,0,0,0
+13,italian pm gaddafi open gas pipeline new era friendship mellitah libya italia prime minister silvio berlusconi libyan leader muammar gaddafi opened gas pipeline countries new era quotfriendship cooperation quot across mediterranean,0,0,0,0
+14,report japan pm advisers see china military threat reuters reuters move could chill ties two asian powers advisory panel japans prime minister say china described military threat defense review nihon keizai newspaper reported wednesday,0,0,0,0
+15,russian army bullying horrific ritual organised bullying russian army getting worse international rights group warns,0,0,0,0
+16,poes condition worsensdoctors nd update movie actor fernando poe jr condition deteriorated according bulletin doctors issued monday still coma multiple organ system involvement,0,3,1,2
+17,sudan rejects ussponsored darfur resolution sudan wednesday rejected ussponsored un security council draft resolution punish conflict western darfur region saying measure unfair lacked balance,0,0,0,0
+18,iraq nuclear losses scandal former un chief weapons inspector hans blix said loss control iraq nuclear sites us occupied country scandalous,0,0,0,0
+19,israel kills two militants massive gaza raid gaza reuters israeli army killed two militants saturday air strike northern gaza strip bringing number palestinians israel killed one deadliest gaza raids,0,0,0,0
+20,flight diverted uk bomb threat singapore airlines passenger jet frankfurt new york diverted manchester airport northern england monday bomb threat police said may hoax,0,0,0,0
+21,riyadh says killing frenchman terrorist attack afp afp french national shot dead saudi red sea city jeddah overnight target quotterrorist attack quot according initial investigations interior ministry spokesman told afp,0,0,0,0
+22,pakistan tightens noose around alqaeda militants near afghan border army afp afp pakistani troops hemmed alqaedalinked foreign fighters local allies hiding tribal border regions series military assaults top pakistani general said,0,0,0,0
+23,charity chief kidnapped iraq care international charity says chief operations iraq kidnapped baghdad spokeswoman told reuters tuesday margaret hassan working,0,0,0,0
+24,earthquake rocks indonesias bali one deadradio jakarta reuters earthquake rocked indonesias premier tourist island bali wednesday killing one person injuring least two el shinta radio reported quoting hospital officials,0,0,0,0
+25,peruvian maoist trial thrown chaos first hearing retrial former leaders peru shining path guerrilla group ended chaos judge suspended hearing group founder abimael guzman codefendants,0,0,0,0
+26,cambodia king wants abdicate cambodian king norodom sihanouk announced ill continue confirmed plans abdicate prince ranariddh king son traveled beijing,0,0,0,0
+27,iraq killed horrific day violence suicide bombers killed least members iraq fledgling security forces yesterday amid spate insurgent attacks across country also,0,0,0,0
+28,nujomas man set sweep namibia elections oshakati namibia reuters hifikepunye pohamba spearheaded moves expropriate whiteowned land redistribution black peasants virtually guaranteed victory namibias presidential polls next week,0,0,0,0
+29,black watch move towards baghdad black watch today moved towards baghdad response us plea help ministry defence said today soldiers scottish regiment leaving base southern city,0,0,0,0
+30,indias tata expands regional footprint via natsteel buyout afp afp indias tata iron steel company ltd took strategic step expand asian footprint announcement buy asiapacific steel operations singapores natsteel ltd,0,2,2,2
+31,israel apologizes killing egyptian officers israeli prime minister ariel sharon apologized egypt today israeli army tank crew fired egyptian patrol near border gaza killing three egyptian police officers,0,0,0,0
+32,fec elects chairman vice chairman ap ap federal election commission thursday elected new chairman vice chairman choosing leaders two members pushed unsuccessfully tougher limits partisan political groups,0,0,0,0
+33,elbaradei strongly rejects charges collaboration iran international atomic energy agency iaea directorgeneral mohamed elbaradei angrily rejected allegations collaborated iran ahead releasing investigation reports tehrans nuclear program,0,0,0,0
+34,protesters greet taiwan president brief visit tensions taiwan china landed seattle doorstep last night taiwan president chen shuibian visited seattle tight security greeted demonstrators taiwan independence,0,0,0,0
+35,death toll japan typhoon still missing tokyo reuters death toll rose japans deadliest typhoon two decades experts warned friday climate change could bring stormier future,0,0,0,2
+36,ten turkish hostages freed iraq men work ankarabased construction company vinsan kidnapped september militant organisation identified salafist abu bakr alseddiq group,0,0,0,0
+37,musharraf visits afghanistan pakistani president general pervez musharraf visit landmark presidential polls afghanistan congratulated afghan counterpart hamid karzai victory saturday afternoon,0,0,0,0
+38,panama assures rumsfeld canal security panama city panama reuters panamas security chief told defense secretary donald rumsfeld saturday central american nation working prevent terror attack might close panama canal,0,0,0,0
+39,us troops accelerate operations sunni insurgents _ us troops offensive iraq ahead holy month ramadan expected start end week operations appear aimed preventing repeat,0,0,0,0
+40,israelis trudge home shock bombings least people killed injured israeli officials believed terrorist bombings,0,0,0,0
+41,afp interview un refugee chief says sudan likely grant darfur abeche chad sept afp sudanese government seen writing wall likely grant autonomy violencewracked darfur region rebels bit end world worst humanitarian crisis un high,0,0,0,0
+42,murdoch novel reveals alzheimers last novel author iris murdoch reveals first signs alzheimers disease experts say,0,3,3,3
+43,australia v india third test close reuters reuters australia seven wickets close play first day third cricket test india tuesday,0,1,1,1
+44,poor poor poverty proportion people living less day decreased per cent global population says world bank latest annual report,0,2,2,2
+45,jewish state fears world isolation internal report prepared israel foreign ministry paints gloomy picture future country global standing giving warning coming decade could,0,0,0,0
+46,arafat meets gaza critic former palestinian security minister could key keeping order among rival factions gaza israeli pullout held fencemending meeting monday president yasser arafat officials said,0,0,0,0
+47,austria extradite turkish underworld figure vienna reuters convicted turkish underworld boss alaattin cakici sought charges corruption extortion extradited austria turkey district court ruled monday,0,0,0,0
+48,politics afterthought amid hurricane ap ap hurricane charley struck three years ago president bushs tour wreckage coastal city would sort postdisaster visit presidents made scenes storms earthquakes floods fires,0,0,3,0
+49,sudan peace talks resume peace talks darfur rebels sudanese government resumed hour boycott rebels accused khartoum violating ceasefire killing civilians six villages,0,0,0,0
+50,pakistan says give extra security chinese pakistan provide extra security chinese working country pursue former guantanamo bay inmate masterminded abduction two chinese engineers interior minister said saturday,0,0,0,0
+51,venezuela vote keeps chavez president caracas venezuelans voted resoundingly keep firebrand populist hugo chavez president victory drew noisy reactions yesterday sides streets international observers certified results clean accurate,0,0,0,0
+52,putin heads turkey landmark visit former foes russian president vladimir putin making twoday official visit turkey first russian leader years mr putin expected sign several economic cooperation agreements,0,0,0,0
+53,hezbollah plane flies israel lebanon guerrilla organization hezbollah announced sunday hd flown unmanned reconnaissance plane northern israel first time,0,0,0,0
+54,us official murdered baghdad washington us state department official worked iraqi ministers education higher education murdered baghdad group linked abu musab alzarqawi group claimed thursday,0,0,0,0
+55,ba flight makes emergency landing amsterdam escorted f british airways passenger plane flying berlin london reported unspecified security threat made emergency landing amsterdam thursday escorted two dutch f jet fighters airline said,0,0,0,0
+56,israeli officer arrested killing gaza girl reuters reuters israeli military police tuesday arrested commander accused comrades riddling body palestinian schoolgirl bullets fellow soldiers killed,0,0,0,0
+57,two million take part allnight cultural festival rome afp afp two million people massed streets rome monuments museums overnight celebrating italian capitals second annual allnight cultural extravaganza mayor said,0,0,0,0
+58,philippines relieved nature curse death toll mounting deadly storm typhoon nanmadol hit nation three days nature curse still haunting philippines earthquake preliminary magnitude rocked northern philippines,0,0,0,0
+59,milosevic defense team asks withdraw case hague reuters former yugoslav president slobodan milosevics two courtassigned defense lawyers asked withdrawn case hague war crimes tribunal said wednesday,0,0,0,1
+60,activists want divestment sudan ap ap black activists religious groups pressing public pension funds divest purported billion holdings companies operating oilrich sudan,0,0,0,0
+61,kerik pulls bush nominee homeland security job bernard b kerik said statement come learn former housekeeper may us legally,0,0,0,0
+62,hurricane ivan blasts alabama kills gulf shores ala hurricane ivan slammed ashore early thursday winds mph packing deadly tornadoes powerful punch waves rain threatened swamp communities louisiana florida panhandle,0,0,0,0
+63,dead kashmir violence new delhi fourteen people killed kashmir increase violence since visit indian prime minister midnovember,0,0,0,0
+64,nkorea called worst press freedom media watchdog reporters without borders labeled north korea cuba worst countries terms press freedom denmark best,0,0,0,0
+65,storms batter cornish coastline flooding causes chaos homeowners along cornwalls south coast mph winds hit land,0,0,1,0
+66,israeli labour party could clinch coalition deal sharon israel opposition labour party began talks prime minister ariel sharon likud party yesterday joining coalition partnership aimed promoting military withdrawal gaza,0,0,0,0
+67,threat behead japanese soldier group led wanted terrorist abu musab alzarqawi said abducted member japan armed forces threatening behead japanese government withdraw troops iraq within hours,0,0,0,0
+68,cocoa prices ivorian exports still blocked world cocoa prices tuesday day lows exports remained hold mob violence military clashes ivory coast key global supplier traders said,0,2,2,2
+69,cleric returns broker najaf peace deal najaf iraq iraqs powerful shiite cleric returned home britain wednesday help broker end nearly three weeks fighting najaf calling followers join march reclaim holy city spokesmen witnesses said grand ayatollah ali husseini alsistani return came heavy fighting persisted najafs old city,0,0,0,0
+70,last success road lions detroit lions went three full seasons without winning away game setting nfl record road futility ended ignominious streak sunday first opportunity season beating chicago bears soldier field,0,1,1,1
+71,bc mountie killed stolen truck crash leaves wife two small children canadian press canadian press vernon bc cp vernon rcmp identified auxiliary officer killed cruiser riding struck stolen truck glen evely,0,0,0,0
+72,snow stay bush principi exits ap ap treasury secretary john snow aggressive champion administrations economic policies accepted president bushs offer wednesday remain cabinet,0,0,0,0
+73,protesters harry israel parliament gaza vote jerusalem reuters thousands rightist israelis accused prime minister ariel sharon treason tuesday parliament looked set approve first pullout settlers occupied land palestinians want part future state,0,0,0,0
+74,sudan questions darfur deaths figures sudan saturday questioned un estimates people died hunger disease remote darfur region since rebellion began months ago,0,0,0,0
+75,powell announces resignation secretary state colin l powell announced resignation monday ending four years battles vice president cheney defense secretary donald h rumsfeld course us foreign policy,0,0,0,1
+76,musharraf pakistan president army chief islamabad reuters pakistans acting president signed bill tuesday allow military ruler pervez musharraf stay army chief despite pledge quit office end year,0,0,0,0
+77,seoul says firms shipped lethal chemical dprk seoul south korean authorities stopped shipment potentially lethal chemical north korea year least two shipments got communist state south korea said friday,0,0,0,0
+78,european abortion debate turns divisive ap ap european parliament legislators thursday turned fight abortion rights portugal emotional divisive debate womens rights division church state,0,0,0,0
+79,militia hand weapons iraq police baghdad iraq followers radical shiite cleric muqtada alsadr said saturday begin handing weapons iraqi police next week major step toward ending weeks fighting american soldiers baghdads sadr city district meanwhile reports british hostage kenneth bigley tried escape beheaded,0,0,0,0
+80,un refugee chief sees darfur autonomy way crisis ndjamena un high commissioner refugees ruud lubbers said sudan grant autonomy darfur began visit address crisis exodus million refugees troubled region,0,0,0,0
+81,us suspends helicopter flights japan crash afp afp united states suspended flights chd military helicopters japan bowing protests crash okinawa university campus,0,0,0,0
+82,schwarzenegger vows defend emissions law toyota general motors seven automakers filed suit block californias new greenhouse gas regulation approved state september,0,2,2,3
+83,hostagetakers demand us allies quit iraq baghdad reuters militants piled pressure washingtons military allies iraq thursday seizing iraqipolish woman holding japanese man threat death,0,0,0,0
+84,nikkei opens higher reuters reuters nikkei average rose percent opening monday recovery us stocks encouraged investors seek bargains among lagging issues including canon inc hightech issues,0,2,2,2
+85,african troops begin small steps calm darfur reuters reuters rebels emerge desert haze like ghosts first one silhouetted atop sand dune holding grenade launcher dozen shadowy figures appearing unison,0,0,0,0
+86,palestinians israelis die gaza fighting jabalya gaza reuters twentythree palestinians three israelis killed thursday gazas bloodiest day two years israels army struck back rocket attack killed two israeli children border town,0,0,0,0
+87,congress members seek officers dismissal ap ap group congressional democrats asking president bush dismiss senior military intelligence officer made church speeches included inflammatory religious remarks discussing war terrorism,0,0,0,0
+88,argentina beats us mens basketball team argentina defeated united states team national basketball association stars friday olympic semifinals dethroning threetime defending champions,0,1,1,1
+89,kenyan tree planter wins nobel peace prize report london cbsmw kenyan tree planter government minister wangari maathai nobel peace prize agence francepresse said,0,0,0,0
+90,shifting signs north korea kim jong il dials back personality cult protest activities pick,0,0,0,1
+91,eu move cyprus eases way turkey deal brussels reuters european union turkey inched toward historic agreement starting membership talks friday eu leaders softened demands crucial sticking point cyprus,0,0,0,2
+92,india testfires surfaceto air missile india successfully testfired surfacetoair missile site eastern orissa state friday government official said condition anonymity,0,0,0,0
+93,israeli troops kill two palestinians ap ap israeli troops killed two palestinians two separate incidents friday israeli helicopters fired three missiles gaza warehouse army said used making weapons,0,0,0,0
+94,israeli army demolishes palestinian homes gaza city israeli army demolished palestinian houses incursion southern gaza strip town rafah thursday palestinian security sources witnesses said,0,0,0,0
+95,chiles lagos receives torture commission report ltpgtltpgtltpgt ignacio badalltpgtltpgt santiago chile reuters chilean president ricardo lagosreceived chilling report wednesday governmentcommission interviewed victims tochronicle first time systematic use tortureduring augusto pinochets dictatorshipltpgt,0,0,0,0
+96,darfur peace talks inch forward despite deadlock security abuja afp african union mediators met separately sudanese government envoys leaders uprising strifetorn region darfur bid hammer deal demilitarising conflict,0,0,0,0
+97,taliban wanted list drawn ap ap united states could cut forces afghanistan next summer taliban militants accept amnesty drawn president hamid karzai neighboring pakistan senior us commander said sunday,0,0,0,0
+98,dutch mulling limits freedom expression many dutch decisionmakers wondering whether reactions particularly criticism muslims go far isabelle wesselingh hague,0,0,0,2
+99,us alerts schools terror threat washington education department advised school leaders nationwide watch people spying buildings buses help detect possibility terrorism like deadly school siege russia warning follows analysis fbi homeland security department siege killed nearly people many students city beslan last month,0,0,0,0
+100,indias lowcost airline eyes business travel afp afp indias pioneer lowcost carrier air deccan plans raise million dollars private equity shedding percent stake also aims enter corporate business jet segment chairman said,0,2,2,3
+101,walking link low dementia risk walking may protect elderly developing dementia research suggests,0,2,3,3
+102,israelis force lufthansa jet israeli jets force flight tel aviv land cyprus bomb alert german officials consider serious,0,0,0,0
+103,gas explosion chinese coal mine leaves dead scores missing canadian press canadian press beijing ap gas explosion coal mine central china killed people left scores trapped missing government said thursday,0,0,0,0
+104,hayley mick hayley mick journalist currently based vancouver broadcast experience cbc radio quirks quarks reported vancouver sun cbc online canadian press ontario vancouver bureaus,0,3,3,3
+105,australian reporter freed iraq australian journalist seized militants iraq nearly hours released unharmed,0,0,0,0
+106,amelies final footsteps retraced detectives staged reconstruction final steps murdered french student amelie delagrange,0,0,1,1
+107,pakistan arrests key alqaeda operative afp afp pakistani security forces arrested key alqaeda operative wanted connection attacks christian targets failed bid kill president pervez musharraf official said,0,0,0,0
+108,safety group closely echoes rail industry documents show nations influential railsafety group tightly bound railroad industry,0,2,2,3
+109,e guinea coup suspects say tortured equatorial guinea told court comrades chained like animals tortured confessing handcuffs plead innocence thursday,0,0,0,0
+110,allies discuss early revival way talks washington top nuclear negotiator arrived seoul yesterday china brainstorm ways jumpstart stalled sixnation disarmament talks north korean nuclear standoff,0,0,0,0
+111,latham stands bali claims candidate federal labor leader mark latham ruled disendorsing queensland labor candidate ivan molloy comments bali bombings,0,0,0,0
+112,arson attack jewish centre paris afp afp jewish social centre central paris destroyed fire overnight antisemitic arson attack city authorities said,0,0,0,0
+113,sudan foils islamist coup plot sudan says foiled coup plot backers detained islamist leader hassan alturabi,0,0,0,0
+114,hussein beat sanctions bribes saddam hussein made billion illegal income eroded worlds toughest economic embargo final years iraqs leader shrewd schemes secretly buy dozens countries top foreign officials major international figures said new report chief us weapons inspector released yesterday,0,0,0,3
+115,syria role seen root lebanese political crisis lebanese prime minister rafiq hariri resigned yesterday sign deepening divisions within lebanon fragile government decisive role,0,0,0,0
+116,experts dampen bird flu fears international health officials emergency meeting bangkok monday said evidence bird flu passed one human another,0,0,0,2
+117,final respects paid arafat palestinians pay last respects yasser arafat chaotic scenes burial ramallah,0,0,0,0
+118,pakistan top wanted terrorist killed pakistani security forces sunday killed country wanted terrorist allegedly involved assassination attempt president pervez musharrafand indicted murder us journalist,0,0,0,0
+119,collingwood anchors england afp afp paul collingwoods unbeaten took england seven zimbabwe opening champions trophy pool match edgbaston,0,1,1,1
+120,pm discuss strategic partnership prime minister manmohan singh arrived tuesday first major diplomatic foray includes talks us president george w bush pakistan president pervez musharraf address un general assembly,0,0,0,0
+121,typhoon chaba kills four japan powerful typhoon chaba plowed southern japan sweeping least four people deaths injuring knocked power thousands,0,0,0,0
+122,powell calls support iraq last nato meeting last north atlantic treaty organization nato foreign ministers meeting us secretary state colin l powell asked european counterparts support iraq issue,0,0,0,0
+123,hu issues certificates two new generals chinese president hu jintao presented saturday certificates two nearly promoted generals capacity chairman central military commission cmc communist party china,0,0,0,0
+124,putin backs veto members expanded security council russian president vladimir putin yesterday rejected key recommendation united nations panel expanding un security council saying reform would onesided new members veto power,0,0,0,0
+125,miller takes fourth win five races beaver creek colorado reuters american bode miller mens world cup alpine skiing downhill friday phenomenal fourth victory five races,1,1,1,1
+126,jerry graybeal quits weber state coach ogden utah weber state football coach jerry graybeal resigned tuesday season worst program year history,1,1,1,1
+127,safin tallest obstacle host patriotic games hope tennis fans go houston jim mattress mack mcingvale rich extremely forthright exceedingly patriotic unflinchingly republican,1,1,1,1
+128,rivera corner stone ruiz new york time saturday night john ruiz ready give,1,1,1,1
+129,closer percival oks deal tigers detroit tigers relief pitcher troy percival speaks media news conference detroit wednesday nov percival tigers agreed million twoyear contract,1,1,1,1
+130,ravens ogden could miss week baltimore md sports network baltimore ravens allpro offensive tackle jonathan ogden could miss week game philadelphia undefeated eagles left hamstring injury,1,1,1,1
+131,marzeoti tds paces shawsheen years shawsheen tech greater lowell battled william j collins cup thanksgiving day,1,1,3,2
+132,us mnt streaking final round us mens national team look extend record unbeaten streak matches take jamaica columbus crew stadium final match semifinalround qualifying fifa world cup,1,1,1,1
+133,hewitt cruises quarterfinals former wimbledon us open winner lleyton hewitt cruised victory michael llodra thursday advance quarterfinals td waterhouse cup,1,1,1,1
+134,zambrano early mets enver aug victor zambrano came mets radical movement pitches fixable flaws delivery curious sore spot lingering around right elbow,1,1,1,1
+135,diouf charged spitting row bolton elhadji diouf charged football association spitting portsmouth arjan de zeeuw saturday win pompey,1,1,1,1
+136,berlin ties miami mark raleigh nc brock berlin tied miami record shared bernie kosar steve walsh ken dorsey five touchdown passes devin hester returned opening kickoff yards another score helping hurricanes hold north carolina state last night,1,1,1,1
+137,yao thrills capacity crowd first china nba game reuters reuters yao mings houston rockets squeezed past sacramento kings thursday first nba game played china country fastgrowing basketball league deems potential marketing mecca,1,1,1,1
+138,vaughan confident england cap memorable season england captain michael vaughan leads side west indies today quietly confident claiming first major oneday trophy icc champions trophy final west indies,1,1,1,1
+139,astros cardinals jeff bagwell drove two runs brandon backe pitched five solid innings help houston astros gain ground nl wildcard race win st,1,1,1,1
+140,wcq group preview eriksson considers three front manchester oct sw england manager sven goran eriksson looks set play three forwards saturdays world cup qualifier wales old trafford,1,1,1,1
+141,olympicsus women show men win gold athens reuters us womens basketball team showed men win gold saturday around spectators flocked olympic stadium hectic athletics program penultimate night athens games,1,1,1,1
+142,tar heels beat miami second time month unc football fans something celebrate stunning upset tar heels beat miami,1,1,1,1
+143,howe back according report msg network website new york mets manager art howe return team manager season,1,1,1,1
+144,timberwolves go way back trailing points minutes seconds left gone longer since last scored minnesota timberwolves could thinking finally getting home week road,1,1,1,1
+145,us moves final round united states national soccer team revealed immediate longterm future victory panama last night,1,1,1,1
+146,texans follow astros lead news sports editor houston houston astros team bayou city toasting watershed achievement sunday afternoon,1,1,1,1
+147,phelps fellow olympians swimming michael phelps reached stratosphere sports stardom firstname basis fans quotpeople come say michael,1,1,1,1
+148,toyota confirms signing italian driver jarni trulli sauber toyota confirmed thursday jarno trulli drive formula one team starting next season italian signed twoyear contract two days ago partner german driver,1,1,1,1
+149,pros olympics still question wayne gretzky found talking mario lemieux possibly playing olympic winter games turin whoa quotare suggesting holding,1,1,1,1
+150,castaside candidates grab onto sox coattails raphael lewis benjamin gedan globe staff globe correspondent october republican state senate candidate rod jane westborough woke yesterday plan grab attention,1,3,3,0
+151,os still fishing big fish like richie sexson still looking work prizes like tim hudson dangled market orioles remain hopeful bag big catch,1,1,1,3
+152,mauresmo confident la victory amelie mauresmo insists win tour championships week finish year world number one frenchwoman could overtake lindsay davenport win los angeles,1,1,1,1
+153,gators may hungover cocktail party ike bourbon beer emotions tend spill traditional grudge match along st johns river call quotthe world largest outdoor cocktail party,1,2,2,3
+154,keane hits two put spurs back track tottenham disarray last weekend following shock resignation manager jacques santini got troubled campaign back rails last night putting championship opponents,1,1,1,1
+155,bettis steelers post eighth straight win cincinnati jerome bettis ran yards pittsburgh steelers blitzing defense created havoc second half win cincinnati bengals yesterday,1,1,1,1
+156,schumacher uncharted territory michael schumacher need win belgian grand prix sunday nail unprecedented seventh formula one drivers title,1,1,1,1
+157,nalbandian stunned chica open beijing reuters resurgent finn jarkko nieminen overpowered david nalbandian china open friday seeds continued tumble beijing,1,1,0,1
+158,haas cink selected ryder cup team jay haas joined stewart cink two captains picks us team try regain cup europe next month,1,1,1,1
+159,noles rebound leon washington ran yards touchdown florida state sacked alabamabirmingham darrell hackney eight times saturday night rebound disappointing loss miami victory,1,1,1,1
+160,mind free calcutta anil kumble began year looking quickly reach got went one better dhaka friday afternoon opening day second last test,1,1,1,1
+161,fans honour legend clough thousands football fans fell silent today honour life achievements legendary manager brian clough public tribute held nottingham city centre minute,1,1,1,1
+162,helm perfect twoandahalf back somersaults one half twists pike position turned ticket silver medal,1,1,1,2
+163,nba today ap ap indiana minnesota pm est last years eastern western conference regularseason champions meet first two times season,1,1,1,1
+164,hewitt davenport top us open standings ap ap lleyton hewitt lindsay davenport could earn extra us open finished atop inaugural us open series standings,1,1,1,1
+165,woods plays pain barrier uncertainty tiger woods participation world golf championship mount juliet ended morning american ace decided play despite injury,1,1,1,1
+166,ot firstminute men lift umass stephen werner minutemen werent easily discouraged hockey east opener last night,1,1,1,1
+167,brand clippers clobber pacers indianapolis nov ticker indiana pacers looking first los angeles clippers accomplished one elton brand points seasonhigh rebounds clippers pounded pacers,1,1,1,1
+168,pinkel reinstates damien nash missouri tailback damien nash reinstated coach gary pinkel ending onegame suspension teams leading rusher,1,1,1,1
+169,dc face kc mls championship ap ap peter nowak played two mls cups liked first lot better gets another crack championship year rookie coach guide dc united sundays title game kansas city,1,1,1,1
+170,usa searches winning formula hal sutton anticipated question formulated answer long arrived milwaukee hotel ballroom announce captain picks finalize us ryder cup team,1,1,1,1
+171,tougher rules wont soften laws game foxborough looking ridiculously developed upper body huge biceps hardly ounce fat easy see ty law arguably best cornerback football chooses physical play finesse thats imply hes lacking finesse component shut side field much deion sanders,1,1,1,1
+172,bud selig skin cancer surgery new york baseball commissioner bud selig surgery monday remove cancerous lesion forehead lesion detected last month selig annual physical biopsy confirmed contained melanoma form skin cancer,1,3,1,1
+173,arsenal boss flamini cesc job chelsea arsenal boss arsene wenger dismissed claims today clash chelsea decide title race said quotthe season finished say chelsea already better last year,1,1,1,1
+174,goosen wins tour championship retief goosen closed win four shots become third player overtake tiger woods final round,1,1,1,1
+175,tv war puts tour india doubt australian cricket chiefs fear battle television rights could cause next month test series india cancelled last night seeking clarification indian board president,1,0,0,0
+176,brewers officially introduce team buyer ap ap milwaukee brewers officially introduced los angeles investor mark attanasio monday buyer ballclub,1,1,1,1
+177,police join probe pistonspacers mass brawl police launched investigation saturday extraordinary mass brawl involving players fans game detroit pistons indiana pacers,1,1,0,1
+178,zambrano zeroes bucs carlos zambrano picked career high th win combining two pitchers sixhit shutout lift chicago cubs victory wednesday night,1,1,1,1
+179,diamondbacks ink fassero phoenix az arizona diamondbacks signed free agent pitcher jeff fassero remainder season move comes five days released colorado rockies,1,1,1,1
+180,hes adu georgetown prep defender fro adu proud brother freddy forward dc united wants step,1,1,1,1
+181,liverpool completes signings alonso garcia liverpool england ap spanish pair xabi alonso real sociedad luis garcia barcelona signed fiveyear contracts liverpool friday,1,1,1,1
+182,ichiro makes run historic record ichiro suzuki baseball sangfroid player racing shatter elusive record hits single season aiming bring glory seattle mariners country japan,1,1,1,1
+183,us impressive world cup qualifying ap ap united states stormed regional qualifying next world cup mean americans world soccer power,1,1,1,1
+184,todays schedule college hockey men stonehill umassdartmouth pm franklin pierce assumption pm women sacred heart holy cross pm,1,1,1,1
+185,inside info man utd shares drop man united share price fallen less expected resignation malcolm glazer bankers jp morgan,1,2,2,2
+186,iliadis tanimoto win judo golds ilias iliadis greece thrilled home crowd tuesday beating roman gontyuk ukraine win gold medal kilogram class,1,1,1,1
+187,donald runs ryder form luke donald says win european masters sunday bodes well upcoming ryder cup debut donald one european captain bernhard langer two picks match takes place oakland hills michigan september,1,1,1,1
+188,team almost another legend sacramento one got away part collection bow ties academic air sacramento assistant coach pete carril would fit perfectly among professors scholars boston one intelligent respected basketball minds living,1,1,1,1
+189,vieira slams spain stance racism patrick vieira fiercely criticised spain record combating racism football paid tribute england record acting,1,1,1,1
+190,sparkling singh targets woods rest wicked none either tormented represented members us tour vijay singh,1,1,0,1
+191,astros exercise biggio option kent houston tx sports network craig biggio around th season houston astros thursday team exercised contract option biggio season,1,1,1,1
+192,defoe drives spurs home jermain defoe underlined claims improved contract inspired tottenham win man middlesbrough new coach martin jol secured first win charge may helped,1,1,1,1
+193,uconn passes first test dan orlovsky threw yards tied school record five touchdown passes lead connecticut win murray state yesterday east hartford,1,1,1,1
+194,woods mickelson form dynamic us duo three days dinners galas blacktie affairs enough social engagements please paris hilton,1,3,3,3
+195,falcons cruising working jim mora thought team deserved little something special atlanta falcons thorough pounding carolina panthers extended record first time since,1,1,1,1
+196,singh takes twoshot lead woods tied second norton massachusetts reuters fijis vijay singh fashioned eightunder par saturday take twoshot secondround lead deutsche bank championship,1,1,0,1
+197,sports ihf awaiting invitation champions trophy sports news new delhi oct ians indian hockey federation ihf expecting formal letter invitation game world governing body replace olympic champion australia champions trophy lahore december,1,1,1,1
+198,kezman first hammer blow mateja kezman finally broke scoring duck settle league cup derby stamford bridge today kezman missed string chances firing joe cole throughball thminute quash hammers hopes making last,1,1,1,1
+199,galliani applauds ancelotti rijkaard milan barcelona offered nice show wednesday night rossoneri defeated spanish counterparts san siro,1,1,1,1
+200,ers stake dubious turf fall bottom league complete uninspired loss another bad team matthew barrows bee staff writer,1,1,1,1
+201,kasprowicz prested aussies lose seriesopener michael kasprowicz miss mustwin second limitedovers international sydney disastrous late gave new zealand stranglehold first game australian cricket selectors said monday,1,1,1,1
+202,cricket india embarrassed australia rainravaged day bombay india bid secure facesaving win australia got wrong foot lost two quick wickets overs bowled rainhit opening day fourth test,1,1,1,1
+203,phillies interview russell vacant manager job former philadelphia phillies catcher john russell seventh person interview team vacant managerial position,1,1,1,1
+204,giants frustration seeps surface slide continues moment melee broke giants sideline sunday eagles linebacker jeremiah trotter hit giants quarterback eli manning bounds,1,1,1,1
+205,nhl players owners reject plans end lockout toronto reuters hopes saving national hockey league season vanished tuesday players team owners rejected proposals end labor dispute,1,1,1,1
+206,klitschko good williams vitali klitschko proved strong danny williams retained world championship crown las vegas last night williams vowed continue boxing despite outclassed klitschko,1,1,1,1
+207,senegal camara scores first goals celtic win senegal striker henri camara scored first two goals champions celtic win dundee scottish premier league saturday,1,1,1,1
+208,carly patterson wins womens allround athens reuters carly patterson upstaged russian diva svetlana khorkina become first american years seize womens olympic gymnastics allround gold medal thursday,1,1,1,1
+209,tiger woods ties knot swedish exnanny london reuters former world number one tiger woods married swedish model elin nordegren luxury sandy lane resort barbados barbados daily nation newspaper reported wednesday,1,2,0,2
+210,man u condemns fan protest glazer manchester united criticized fans disrupted game reserve teams protest potential takeover famed english soccer club tampa bay buccaneers owner malcolm glazer,1,1,1,1
+211,fish coasts second seed mardy fish brushed aside challenge qualifier andres pedroso win international tennis championships,1,1,1,1
+212,game day tiger woods married barbados two best golfers world walking streets st andrews scotland,1,1,1,0
+213,auburn converts second chance stun lsu three days hurricane ivan ravaged state game almost take place thranked auburn rallied saturday dramatic victory,1,1,1,1
+214,ravens get rest absence running back jamal lewis ravens hope get number injured players back bye week,1,1,1,1
+215,mlb new york yankees boston hideki matsui homered drove two runs friday night new york yankees increased division lead win boston,1,1,1,1
+216,crowton steps byu football coach provo utah sports network gary crowton resigned position head football coach brigham young,1,1,1,1
+217,vijay around tiger yet woods sun setting vijay singh fijian golfer indian origin birdied th seemed like sign tiger woods days worlds number one player may fading,1,1,0,0
+218,three hold firstround lead sfb classic ap ap john senden closed second eagle round shared lead harrison frazar glen day first round southern farm bureau classic thursday,1,1,1,1
+219,alabama pass south carolina run reason optimism guillon benefit first start arkansas friendly environment bryantdenny stadium,1,1,1,1
+220,pacers raptors jamaal tinsley scored points second half lead indiana pacers victory toronto raptors traded star vince carter new jersey earlier friday,1,1,1,1
+221,french take gold bronze single kayak athens greece winning whitewater runs family frenchman benoit peschier though olympic gold something new peschier paddled oneman kayak aggressively penalty free semifinal final runs manmade olympic,1,1,1,1
+222,thhour highlights late nbcs primetime olympic coverage taped shaped television version readers digest condensed book get us highlights big news stories welledited drama building pm hour formula thats proven hold audience pull ratings big downside stay midnight,1,3,3,3
+223,two millwall fans stabbed hospitalized budapest hungary uefa charged hungary ferencvaros fans threw missiles shouted racist abuse thursday uefa cup tie millwall,1,1,1,1
+224,need well benitez rafael benitez admitted liverpool finally end speculation steven gerrard future good champions league campaign,1,1,1,1
+225,game day recap sunday november sandora irvin points rebounds tcu upset ranked team second night row beating michigan state,1,1,1,1
+226,serena sails final china open though unfamiliar city top seed serena williams turned inaugural china open wta tennis tournament home court saturday stormed singles,1,1,1,1
+227,bills williams sustains neck injury ap ap bills right tackle mike williams sustained neck injury driven field ambulance third quarter buffalos victory new york jets sunday,1,1,1,1
+228,different time different team left third quarter score fans doak campbell stadium tallahassee fla long since stopped worrying outcome,1,1,1,1
+229,big green slip wildcats mike lang careerhigh points including goahead jumper remaining lift dartmouth nonconference victory new hampshire last night hanover nh langs basket broke tie dartmouth fouled wildcats jermaine anderson hit one two free throws make seconds left,1,1,1,1
+230,mariners torment old foe ichiro madritsch cabrera blast al west race watched distance oakland george sisler stayed top least another day seattle mariners took oakland athletics wednesday,1,1,1,1
+231,mularkey sticking bledsoe bills starter mike mularkey message clamoring rookie quarterback jp losman replace drew bledsoe buffalo starter yet,1,1,1,1
+232,sainsbury ultimatum leeds sebastian sainsbury warned leeds united chiefs today face stark choice accepting million bid selling elland road,1,1,1,1
+233,robson back swipe critics bryan robson ended three half year exile premiership management returning hawthorns first excelled player years ago,1,1,1,1
+234,marlins streak mets fourday layoff fails cool marlins extend winning streak eight games beating mets,1,1,1,1
+235,shoppach doesnt appear ready hit next level weeks dwindling jason varitek enters free agency red sox continue carefully monitor kelly shoppach catcher future climb toward majors sox like seen triple pawtucket shoppach though remains highly uncertain whether make adjustments plate,1,1,1,1
+236,jaguar exit throws f deeper turmoil london reuters formula one already struggling shape future put show staring abyss fords decision pull sell jaguar team,1,1,1,2
+237,today athens leontien zijlaardvan moorsel netherlands wipes tear winning gold medal women road cycling individual time trial vouliagmeni olympic centre athens wednesday,1,1,1,1
+238,bell would like manage contending team previous stints cleveland colorado teams rebuilding well let go bostrom,1,1,1,1
+239,um defense big hit start finish markus curry made hit low ernest shazor made hit high leon hall leapt football wobbled freely toward university michigan sideline,1,1,1,1
+240,bucs decline option reliever boehringer jose mesa salomon torres best work tandem fitting would come terms news deals pittsburgh pirates day,1,1,1,1
+241,cricketsri lanka wicketkeeper calls quits colombo afp sri lanka wicketkeeper romesh kaluwitharana announced retirement international cricket left squad next month tour new zealand,1,1,0,1
+242,dalomba sprints win eastern massachussetts crosscountry championships week away yesterdays mstca invitational franklin park offered area runners last chance tune title race,1,1,1,1
+243,game remember charlton players past present would proud display fitting game marking addicks centenary everything could wish match,1,1,1,1
+244,conte turned athletes towers power face sporting evil man accomplished bass player leers us television screen describing hell hath wrought games people play people play,1,1,1,1
+245,iverson answers bell ot philadelphia nov ticker seemed like highly unlikely game allen iverson sink first career gamewinning buzzerbeater,1,1,1,1
+246,baseballred sox brink world series victory st louis reuters pedro martinez pitched seven shutout innings manny ramirez hit home run boston red sox beat st louis cardinals tuesday moving brink first world series title since,1,1,1,1
+247,england sweeps zims england swept oneday series zimbabwe run win bulawayo veteran darren gough took zimbabwe bowled chasing victory,1,1,1,1
+248,greene leads georgia rout kentucky lexington kentucky sports network david greene became winningest quarterback division ia history thomas brown ran yards three touchdowns lead eighthranked georgia rout kentucky commonwealth stadium,1,1,1,1
+249,hubris caution boston red sox eye victory reuters reuters giddiness paranoia arrogance caution display wednesday boston supposedly cursed red sox moved within one victory baseball championship eluded years,1,1,1,1
+250,housing starts surge pct october washington reuters us housing starts jumped largerthanexpected percent october busiest pace since december buyers took advantage low mortgage rates government report showed wednesday,2,2,2,2
+251,expentagon official gets months conspiring favor boeing former official sentenced acknowledging favored boeing company pentagon contracts seeking job company,2,2,2,2
+252,update td banknorth talks possible deal toronto dominion bank tdto quote profile research said wednesday talks usbased banknorth group bnkn quote profile research possible deal line canadian bank push,2,2,2,2
+253,county unemployment drops percent san diego san diego county unemployment rate percent august revised percent july percent year ago california employment development department reported today,2,2,2,2
+254,sony ibm toshiba give details cell chip reuters reuters ibm sony corp toshiba corp monday revealed plans powerful new cell processor three jointly producing run nextgeneration computers game consoles televisions,2,3,3,3
+255,update oracle poised pounce peoplesoft bolstered investors oracle corp appears destined complete longsought takeover peoplesoft inc unless rival becomes profitable proves worth billion bid currently table,2,2,2,2
+256,ex peoplesoft chief admits lying analysts wilmington former chief executive peoplesoft fired last week said lied wall street analysts last year impact oracle hostile bid company business,2,2,2,2
+257,china economy still sizzling gdp q prices china economic boom still roaring despite efforts cool sizzling growth gross domestic product climbing per cent first three quarters year government reported friday,2,2,2,2
+258,oil price rise adds airlines woes losses continue global airline industry forecast made net losses bn year rise oil price overwhelmed efforts carriers cut costs,2,2,2,2
+259,government sell stake oil business canadian government getting oilandgas business selling stake petrocanada billion,2,2,2,2
+260,hasbros conehead saturday night live version trivial pursuit good strategy staying ahead age compression,2,3,1,2
+261,microsoft plays growth dividend preaching choir bill gates steve ballmer still best sell virtues microsoft stock company annual shareholder meeting yesterday bellevue,2,2,2,2
+262,lakshmi mittal britain richest man london nri business tycoon lakshmi n mittal set control world largest steelmaker emerged richest man britain,2,2,0,2
+263,update oracle raises offer peoplesoft software manufacturer oracle corp said monday raised hostile bid rival peoplesoft inc per share said new price represents company quotbest final offer,2,2,2,2
+264,challenger disappoints writedown kerry packerbacked challenger financial services group reported first net loss since incorporating impacted massive writedown goodwill,2,2,2,2
+265,walmart dec sales seen pct reuters reuters walmart stores inc said saturday still expects percent percent increase december sales us stores open least year,2,2,2,2
+266,tuc urges minimum wage rate uks minimum wage rise rise hour next two years tuc says business calls proposal totally irresponsible,2,2,2,2
+267,jamaica record fdi inflows jamaica last year attracted highest level foreign direct investment fdi flows yet us million outperforming traditional powerhouse investment hosts costa rica trinidad tobago even argentina,2,2,2,2
+268,crude oil prices near continued march toward symbolic us level crude oil prices neared alltime record high us supply fears iraq key producers pushed early trade monday market took stock hurricane ivan impact oil rigs gulf mexico,2,2,2,2
+269,telephone tag forbescom forbescom arris group arrs saw market cap unjustifiably halved recently comcast huge customer arris sales hinted might buy nextgeneration technology cisco systems arris supplies technical guts cable companies use provide phone service reverse phenomenon see story p,2,3,2,3
+270,brown seeks retain eu rebate chancellor gordon brown expressed determination retain british rebate contributions european union annual budget,2,2,1,2
+271,hk banks adopt different prime rates hsbc standard chartered hang seng bank announced thursday cut lending saving rates despite points rate hike united states overnight,2,2,2,2
+272,spanish bank makes bumper profits spanish bank buying abbey made bn profit bn eurosin first nine months banco santander central hispano acquiring uk lender,2,2,2,2
+273,dollar hits new low euro us treasury secretary pledges commitment strong dollar currency hits another record low euro,2,2,2,2
+274,bill gates richest years successively bill gates founder microsoft still remains richest person usa according forbes magazine gates keeping first place already year raw among richest americans,2,3,3,3
+275,update ottawa sets petrocanada price c ottawa set price per share c sale percent stake petrocanada pcato quote profile research analysts,2,2,2,2
+276,albertsons q profit falls percent persistent economic sluggishness continued fallout southern california labor dispute slashed second quarter profits percent albertsons inc,2,2,2,2
+277,retail sales fall percent august retail sales slid august people steered away buying cars shoppers kept close eye spending splurging july,2,2,2,2
+278,study ceos rewarded outsourcing new york cnnmoney ceos top us companies sent service jobs overseas pulled far pay counterparts large companies last year study said tuesday,2,2,2,2
+279,euro exchange rate poses threat eurozone economy top european union eu economic official said monday current level euro us dollar posed threat eurozone economic recovery,2,2,2,2
+280,constellation brands offers billion mondavi update constellation brands inc world largest winemaker offered billion cash acquire robert mondavi corp maker lowerprice woodbridge wines,2,2,2,2
+281,american shoppers splurge september washington afp shoppers dynamo us economy shrugged rising energy prices splurged malls car showrooms september government report showed,2,2,2,2
+282,drug makers target counterfeits big pharmaceutical companies testing new tracking technology hope help spot counterfeit drugs reach consumers medicine cabinets,2,2,2,2
+283,germanys new reality undercut vastly cheaper labor neighboring poland increasing global competition union adam opel ag acceded plan general motors corp cut jobs throughout europe,2,2,2,2
+284,canada oct housing starts fall led cities update canadian housing starts fell percent annual pace units october led drops multi singlefamily homebuilding cities federal government housing agency said,2,2,2,2
+285,vornado buys pct sears stake vornado realty trust said friday acquired percent stake retailer sears roebuck amp co sears stock rose high,2,2,2,2
+286,perry oks money aps accusations arise state adult protective services agency get emergency infusion million correct kinds problems arisen el paso,2,2,2,3
+287,halo scores record sales million first hours halo broke entertainment retail records first hours microsoft game studios said video game sold million stores us canada raking million sales,2,3,3,2
+288,senator outrage delays passage corporate tax bill senate cleared path sunday bill hand billion corporate tax breaks blocked final vote fight provision aimed helping reservists duty iraq,2,0,0,2
+289,fed expected stay course good rule thumb federal reserve startling economic report enough sway policy labor department reported,2,1,1,1
+290,exworldcom ceo wants witness immunity reuters reuters lawyers former worldcom chief executive bernard ebbers seeking immunity two witnesses believe could clear client fraud charges related companys billion accounting scandal according court papers filed wednesday,2,2,2,3
+291,us stocks markets rally bush win oil surge limits gains us stocks rallied wednesday boosted shares health defence companies seen benefiting reelection president george w bush higher oil prices checked advances,2,2,2,2
+292,interest rates mark time australian home owners breathe sigh relief stable interest rates predicted well next year reserve bank issued glowing report card australian economy yesterday,2,2,2,2
+293,pinaultprintemps redoute sell holding rexel london november newratingscom pinaultprintemps redoute sa ppxfse plans sell controlling stake electrical parts distributor rexel rxl group private firms billion billion,2,2,2,2
+294,time warner sec near deal aol troubles securities exchange commission time warner inc nearing agreement deal media giant would pay million settle wideranging allegations,2,2,2,2
+295,justices debate mailorder wine freelance wine critics may sound like sweet gig ray eleanor heald soured home state michigan blocks direct shipments outofstate,2,3,3,3
+296,fannie mae pays price cutting corners look safe two regulatory agencies concluded fannie mae cut corners came accounting severely damaged image,2,2,2,2
+297,hp tempt holiday shoppers sights sounds computerhardware giant best known products pcs printers friday laid plan become brandname consumer electronics products flatscreen tvs music players devices move content,2,3,3,3
+298,sbc calling cable sbc teaming microsoft provide consumers new way view television move puts direct competition cable tv industry,2,3,3,3
+299,oil firm percent jump oil prices held firm friday leaping almost day earlier news us crude stocks sank fivemonth low last week distillate fuels barely grew ahead winter,2,2,2,2
+300,bush signs billion taxcut bill fanfare washington president bush signed law sweeping rewrite corporate tax law nearly two decades bush signed bill today fanfare flight air force one campaign stop pennsylvania,2,2,2,2
+301,xstrata puts bn bid shareholders xstrata yesterday took billion billion cash bid australian miner wmc hostile laying ground another major takeover clash old guard new mining world,2,2,2,2
+302,kiwi hits eightyear high struggling greenback new zealand dollar hit highest level year propelled dramatic dip us dollar greenback slumped global currencies kiwi rose usc highest level eight years,2,2,2,2
+303,air nz qantas alliance appeal air new zealand qantas airways lost bid get proposed alliance approved new zealand new zealand high court declined airlines appeal nz commerce commission decision block alliance,2,2,2,2
+304,regional house price declines possible washington reuters us housing industry economists monday cautioned rapid house price gains areas country may sustainable,2,2,2,2
+305,judge indicts former parmalat auditors milan italy oct two former auditors parmalat ordered stand trial market rigging fasttrack procedure first indictments since massive fraud scandal italianbased dairy giant,2,2,0,1
+306,stocks finish apple provides lift new york reuters us stocks rose monday higher price target shares apple computer inc lta hrefhttpwwwinvestorreuterscomfullquoteaspxtickeraaplo targetstocksquickinfofullquotegtaaploltagt prompted enthusiasm technology stocks rally crude oil stalled,2,2,2,2
+307,delta gets tentative deal pilots months negotiations delta air lines inc secured tentative contract pilots move might help struggling carrier avoid chapter bankruptcy filing,2,2,2,2
+308,alamosa buy airgate million new york reuters alamosa holdings inc lta hrefhttpwwwinvestorreuterscomfullquoteaspxtickerapcso targetstocksquickinfofullquotegtapcsoltagt acquire airgate pcs inc lta hrefhttpwwwinvestorreuterscomfullquoteaspxtickerpcsao targetstocksquickinfofullquotegtpcsaoltagt million stock creating largest sprint corp lta hrefhttpwwwinvestorreuterscomfullquoteaspxtickerfonn targetstocksquickinfofullquotegtfonnltagt wireless affiliate companies said wednesday,2,2,2,2
+309,japan govt body call billion dollar aid daiei afp afp japanese governmentbacked organization ask financial institutions provide troubled retailer daiei billion yen billion dollars financial assistance,2,2,2,2
+310,land rover aims new model us land rover launch sports tourer next year likely test british carmakers ability compete us,2,3,3,3
+311,industrial output falls japan japans industrial production falls october unemployment rises providing evidence slowdown worlds second largest economy,2,2,2,2
+312,united seek cuts labor elsewhere united airlines says need even labor cuts anticipated get bankruptcy united told bankruptcy court judge chicago today intends start talks unions next month new round cost savings,2,2,2,2
+313,lucents history case study wild rides youve ever wondered ignited americas lates obsession telecom tech stocks could well argue started lucent technologies,2,3,3,3
+314,intel planning centrinolike brand desktops intel preparing marketing strategy brand desktop pcs similar label made centrino notebook technology household name according sources familiar companys plans,2,3,3,3
+315,merrill wachovia others fined late reporting new york nasd yesterday said censured fined securities firms total us nz million failing properly disclose required information brokers times,2,2,2,2
+316,big merger could box qwest qwest communications may immediately affected sprintnextel merger options could become limited one time qwest sprint viewed possible merger partners,2,2,3,3
+317,cost borrowing goes us america central bank federal reserve last night raised interest rates fourth time six months warned us consumers businesses expect increases cost borrowing coming months,2,2,2,2
+318,summer box office hits high despite lows summer many studios biggest bets failed pay familiarity form sequels lowbudget comedies resonated movie audiences,2,2,2,2
+319,update london exchange rejects german proposal london stock exchange plc received rejected bid proposal germany main stock exchange deutsche boerse ag exchanges said monday,2,2,2,2
+320,jobless claims rise unexpectedly washington reuters number americans filing initial claims jobless pay grew unexpectedly last week labor department data showed thursday official said increase week public holiday typical,2,2,2,2
+321,petrol sales boost tesco turnover uks largest supermarket tesco says strong petrol sales aided rise third quarter sales across parts business,2,2,2,2
+322,auto sales surged sept auto sales soared september led surge general motors increases chrysler toyota gm biggest gain two years boosting rebates,2,2,2,2
+323,facing fund gap lucent technologies population retired workers grown large years four retirees every active employee payroll health insurance costs soaring lucent saying time retirees help pay benefit,2,2,3,3
+324,dollar rises interest rate plays new york reuters dollar rose thursday traders short dollars relentlessly selling weeks looked growing yield advantage us assets reason buy back currency end year,2,2,2,2
+325,wall street dominic rushe disney trial mickey wilmington delaware isnta popular spot hollywood crowd imagine would bit sniffy passes local entertainment,2,2,3,3
+326,guidant j ampj resources sealed deal lengthy talks stiff negotiations price decision guidant executives sell company billion came attractiveness johnson amp johnson deep resources,2,2,2,2
+327,hit animated films boost pixar pixar animation studio reported thursday strong thirdquarter results lifted solid home video sales older blockbuster hits quotfinding nemo quotmonsters inc,2,3,3,3
+328,volkswagen talks union move forward london november newratingscom german automotive giant volkswagen ag vowetr continued negotiations labour union today planned labour cost reductions,2,2,2,2
+329,us launches probe fannie mae woes washington federal prosecutors opened investigation possible wrongdoing mortgage giant fannie mae days regulators accused company shoddy accounting practices according sources familiar probe,2,2,2,2
+330,saudi arabia qatar kuwait still risky investments study afp afp investing remains risky saudi arabia qatar kuwait notably presence us forces region makes countries vulnerable terrorist attacks security consulting firm said,2,0,0,0
+331,faces crash new york people forever associated great crash white male wealthy occupations ethics varied considerably,2,2,2,3
+332,former enron employee testifies coverup merrill lynch new york september newratingscom witness first enron criminal trial former executive company testified today believed enron executives trial involved effort hide illicit deal,2,2,2,2
+333,closing arguments enron barge trial houston prosecutors claim six executives conspired push sham sale barges think get caught,2,2,2,2
+334,chiron wont make flu vaccine stock washington reuters company makes half flu vaccine used united states said tuesday supply vaccine coming flu season problems plant britain throwing major us flu drive disarray,2,2,2,2
+335,temasek may buy stakes minsheng bank medco expand abroad temasek holdings pte billion singapore government fund may buy stakes china first private bank indonesia biggest listed oil company steps investments abroad,2,2,2,2
+336,old labor tactics resurface new union labor experts say unite newly merged union representing dc hotel workers current contract dispute one outspoken toughest unions aflcio umbrella,2,2,2,0
+337,monday fortune business report monday opening levels dow opens lower nasdaq starts day lower,2,2,2,2
+338,avaya buy germanys tenovis reuters reuters avaya inc telecommunications equipment supplier tuesday said would buy tenovis gmbh co germany private equity firm kohlberg kravis roberts co million expand presence europe,2,2,2,2
+339,arm agrees buy artisan components mn london august new ratings arm holdings armetr agreed buy artisan components inc arti usbased provider integrated circuit designing solutions million,2,2,2,2
+340,indexes japan fall short hype japanese stocks failed measure assessment made april merrill lynch chief global strategist david bowers said japan quotvery much everyone favorite equity market,2,2,2,2
+341,alcoa profit hurt labor storm costs alcoa inc aan quote profile research world biggest aluminum producer posted slightly better quarterly earnings thursday higher metal prices,2,2,2,2
+342,ryanair agrees repay escrow account walloon vueling writes quotryanair confirmed written walloon authorities agreed repay escrow account ryanairs appeal heard european courts make definitive decision matter,2,2,0,0
+343,special espncom age old question quotwhat give man everything quot time tell whether phil knight retirement longlived many players paid endorse nike,2,1,1,1
+344,oracle quarterly net income rises pct oracle corp orclo quote profile research tuesday reported percent rise quarterly net income world second largest software company benefited,2,2,2,2
+345,travelers stuff roads terminals traditionally wednesday thanksgiving busiest travel day year american automobile association expected travel year hit presept,2,2,2,2
+346,us august inflation mild job claims rise us consumer prices inched percent last month gasoline car prices tumbled government said thursday report suggesting inflation spike earlier year aberration,2,2,2,2
+347,oil edges microsoft boosts techs new york reuters oil prices touched month lows near barrel monday taking back losses downward trend knocked energy company stocks lower us stock indexes ended little changed rise microsoft shares helped boost technology sector,2,2,2,0
+348,karstadtquelle sells stake venture troubled german retailer karstadtquelle ag said monday selling percent stake threeyearold joint venture coffeehouse chain starbucks coffee international us company,2,2,2,2
+349,marsh says putnam isnt block officials embattled marsh amp mclennan cos yesterday moved squelch speculation boston money management firm putnam investments divorced corporate parent either sale outside buyer private buyout engineered putnam executives,2,2,2,2
+350,bp beats q forecasts high oil price reuters reuters bp plc worlds second largest oil company reported bumper thirdquarter earnings tuesday back high oil prices,2,2,2,2
+351,oracle profit rises software demand san francisco reuters oracle corp tuesday reported higher quarterly profit worlds second largest software company benefited steady demand flagship database software,2,2,2,2
+352,michigan regulators allow sbc charge use state regulators unanimously voted tuesday allow sbc communications inc charge competitors use network unclear increase would felt,2,2,2,3
+353,german finance professionals grow sharply ap ap german finance professionals grew sharply pessimistic countrys economic growth outlook fearing euros record highs us dollar weigh exports monthly survey showed tuesday,2,2,2,2
+354,treasuries mirror oils climb reuters reuters us treasury yields hit lowest level almost seven months monday record high oil prices clouded outlook global economic growth,2,2,2,2
+355,growth without jobs vexing contradiction according government labor reports george w bush first president since herbert hoover preside net loss jobs administration,2,2,2,2
+356,china vows currency shift mum date washington oct face growing international pressure chinese officials told top us officials friday would continue push ahead plans float revalue currency,2,2,0,2
+357,eu foreign ministers hope break deadlock asem summit european union said friday quothoped reach conclusion quot meeting foreign ministers participation militaryruled myanmar upcoming summit asian european nations,2,0,0,0
+358,us airways ask court pay cuts airways said yesterday would ask bankruptcy judge approve emergency pay cuts unions said would percent moves raise cash,2,2,2,2
+359,peoplesoft sweetens employee compensation business software maker peoplesoft friday said boosting compensation packages employees except chief executive move would raise,2,2,2,3
+360,update sonic asbury cut earnings estimates stocks fall shares sonic automotive inc sahn quote profile research asbury automotive group inc abgn quote profile research fell sharply tuesday car dealership,2,2,2,2
+361,cisco systems stquarter earnings rise reuters reuters cisco systems inc biggest maker equipment directs data internet tuesday said quarterly earnings rose percent rising demand networking gear,2,2,2,2
+362,comcast gets option tw cable new york cbsmw comcast said monday option cut stake time warner cable percent percent exchange stock unit hold cabletelevision systems cash,2,2,2,2
+363,us airways holding pattern decision labor relief may difference survival liquidation,2,2,2,2
+364,bounced around florida bouncing back although three hurricanes hit florida led broad economic slowdown glimmerings miniboom already apparent,2,2,2,2
+365,office depot sees profit views new york reuters office depot inc lta hrefhttpwwwinvestorreuterscomfullquoteaspxtickerodpn targetstocksquickinfofullquotegtodpnltagt us office supply retailer tuesday forecast thirdquarter fullyear profits wall street estimates due disruptions recent hurricanes,2,2,2,2
+366,coke opens coolers rival products coca cola allow companies products shop coolers first time agreed move deal european commission settle five year competition case,2,2,2,2
+367,delta cut jobs chicago reuters delta air lines wednesday said plans cut jobs next months implement percent acrosstheboard pay reduction reduce employee benefits bid avoid bankruptcy,2,2,3,2
+368,rates shortterm tbills hit month high washington interest rates shortterm treasury bills rose yesterdays auction highest levels months,2,2,2,2
+369,molson pay dividend push coors merger update molson inc canada biggest beermaker said pay minority shareholders special dividend overcome opposition planned c,2,2,2,2
+370,bush picks kellogg ceo commerce washington reuters president bush monday chose carlos gutierrez cubanborn ceo kellogg co nominee commerce secretary second selection hispanic secondterm cabinet,2,0,2,2
+371,drastic ual cuts united airlines trying pare costs emerge bankruptcy said thursday seeking million annual savings proposed pay,2,2,2,2
+372,many newspapers see circulation declines nation largest daily newspapers reported steep circulation declines yesterday overall circulation across industry new report revealed,2,2,2,2
+373,ireland national carrier seeks govt aid ireland stateowned carrier aer lingus asked government grant worth euro million euro million us million us million begin buying longhaul aircraft either boeing airbus,2,2,2,2
+374,putin says state companies may buy yukos oil assets update russian president vladimir putin said staterun companies may bid oao yukos oil co assets sale collect back taxes raising prospect government control nation oil gas industry,2,2,2,3
+375,science students win prize description siemens westinghouse announces winners annual competition high school students math science technology,3,3,3,3
+376,apple offers financial details apples latest form k filing securities exchange commission offers look company past year thinks whats come,3,2,2,2
+377,need carbon sink technologies climate scientists tell conference greater efforts made pull co atmosphere,3,3,3,3
+378,kind creepy thing clues human origins turn head lice genes headscratcher experts human origins suspect humans picked parasites primitive ancestors,3,3,3,3
+379,gold indian coin expected fetch reuters reuters indian gold coin nearly years old shows one earliest depictions buddha sold auction expected fetch pounds,3,2,0,2
+380,rnc protesters using text messages plan multiple reports provocateurs setting trash fires midtown read one text message sent plus mobile phones week service called ruckus rnc text alerts,3,3,3,3
+381,whats new google news whats new google news google news added whole bunch features werent lookin first theres new pulldown menu top page easily allows access top stories across google news properties look,3,3,3,3
+382,civil servants net porn probe staff department work pensions disciplined downloading porn work,3,3,3,3
+383,music lovers download entire track mobile phone good news music lovers download entire track mobile phone made possible two giants usbased melodeo warner music group signed agreement whereby consumers,3,3,3,3
+384,microsoft eyes video business im software giant teams polycom boost sales live communications server,3,3,3,3
+385,epa us waterways contain polluted fish ap ap one every three lakes united states nearly onequarter nations rivers contain enough pollution people limit avoid eating fish caught,3,3,3,3
+386,mobile boom draws telecom manufacturing india bangalore india anticipated boom mobile telephony use india attracting multinational local companies establish manufacturing operations country,3,2,3,3
+387,aol shuns microsoft antispam technology add america online inc growing list companies organizations shunning spamfighting proposal microsoft corp aol cited quottepid support quot microsoft socalled sender id technology,3,3,3,3
+388,single license dual core microsoft microsoft quote chart said clarified software licensing policies address new trend microprocessors keep pressure rivals,3,3,3,3
+389,uk gives blessing open source organizations planned move already moved microsoft server os migration dropped bottom ranks making,3,3,3,3
+390,verity clearforest add structure data verity week unwrap software addon search system designed make unstructured content usable corporate applications announcement follows activity clearforest last month introduced version text analytics platform systematically structuring unstructured data processed enterprise data business intelligence systems,3,3,3,3
+391,attacks disrupt credit card transactions flood data interrupts authorizenets credit card processing internet merchants leaving company scrambling,3,2,3,2
+392,msn search engine searching ways make redmond rise would tasked designing new search engine resources world offer certain knowledge project important employer mountains,3,3,3,3
+393,briefly realnetworks signs red flag linux roundup plus microsoft ships virtual pc sgi warns lower revenue deeper losssap taps search technology,3,3,3,3
+394,thomson enter hd dvd market thomson announced friday enter hd dvd market line players also manufacture hd dvd bluray discs,3,3,3,3
+395,tough predict hurricane landfall season busy season landfalling atlantic hurricanes seen lessthanperfect calls tropical,3,2,1,1
+396,uk browser claims phishing victory uk browser business deepnet explorer today trumped global competitors microsofts internet explorer netscape firefox claims new phishing alarm enhanced popup killer made deepnet explorer first known browser pass,3,3,3,2
+397,apple enhances uk online shopping store adds features details expected dispatch date point shoppers select product example power mac g dual ghz quotusually dispatched weeks,3,3,3,3
+398,giants form grid computing alliance oracle dell emc intel joined tech companies create industry standard enterprise grid systems quotproject megagrid quot help maximize use computing resources according group,3,3,3,3
+399,metier assists fbi information technology initiative metier ltd district oneyear million contract software services fbis enterprise portfolio management program new initiative improve oversight fbis informationtechnology systems applications assets agencys management staff company said,3,3,3,3
+400,firefox ignite enterprises many users celebrating mozilla release firefox opensource web browser beta version downloaded million times,3,3,3,3
+401,dems gop whos got brains well actually discernible differences brain activity may explain democrat sees world one way republican sees another,3,2,3,3
+402,worldwide pc market seen doubling new york reuters number personal computers worldwide expected double billion driven explosive growth emerging markets china russia india according report released tuesday forrester research inc,3,3,3,3
+403,amds q led strong opteron athlon sales san francisco expected advanced micro devices incs amds thirdquarter revenue came little companys earlier predictions strong increases sales bit desktop server processors led companys fourth straight profitable quarter,3,3,3,2
+404,new msn search may google killer new msn search may google killer second look msns search technology available public beta testing ive given spin must say im impressed although ads serps preview site im sure load,3,3,3,3
+405,lloyds tsb cashes voip lloyds tsb gearing roll one largest converged networks europe phone voip infrastructure linking bank branches cash points,3,2,3,3
+406,take two torts call morning friction sometimes strains patientdoctor relationship lawyers seek medical care alltime high,3,2,2,2
+407,study apple dell lead pc customer satisfaction index pc industry better job year satisfying us customers better technical support easiertouse hardware seem made difference according american customer satisfaction index,3,3,3,3
+408,sony taps nvidia playstation graphics sony entertainment chosen nvidia supplier powerful graphics chips required sonys upcoming playstation video game console,3,3,3,3
+409,peter griffin acom makes searching personal really taken acom almost new player search engine game built specifically,3,3,3,3
+410,older people turning internet find love mary bellis waller posted two internet dating sites search companion waller pioneer online dating among people age thousands others age older also turning internet find romance,3,3,3,3
+411,authorities shut ukbased news web sites us authorities participating international investigation shut independent news web sites run independent media center indymedia seizing two ukbased web servers group said friday,3,3,3,3
+412,dell takes second shot blades two years launching first blade server dell inc monday set launch followup product poweredge server based intel corp,3,3,3,3
+413,novell microsoft sucked billion ceo jack messman tells conference crowd microsofts licence fees hobbled industry,3,3,2,3
+414,nasa test hypersonic scramjet washington nasa today conduct final fastest test flight pilotless xa hypersonic research aircraft aiming send zooming across pacific ocean times speed sound almost kilometers two miles per,3,3,3,3
+415,four infineon executives plead guilty four infineon executives pled guilty price fixing computer memory chips face prison sentence four six months along fines reported us department justice thursday,3,2,3,3
+416,mobile margins fall telstra telstra chief financial officer john stanhope admitted telstra margins billion year mobile phone business shrink year face increased price competition growing cost acquiring new customers,3,2,2,2
+417,sparkle starts shipping geforce gt agp lta hrefhttpwwwhardwareanalysiscomcontentarticlegtgeforce gt agp good getsltagt ltfont size colorfffgtltnobrgthardware analysisltnobrgt,3,1,2,3
+418,japan ntt docomo sees europe embracing hitech mobile phones tokyo japan top mobile operator ntt docomo believes europe embrace hitech telephones expects major boost subscribers continent imode internet service,3,3,3,3
+419,ibm new eserver supports amd dualcore ibm quote chart looking get leg competition october launch eserver rackmounted server supports amd quote chart upcoming dualcore bit processor,3,3,3,3
+420,bush administration shifts stance cause warming new york striking shift way bush administration portrayed science climate change new report congress focuses federal research indicating emissions carbon dioxide heattrapping gases likely,3,3,0,0
+421,sony shows new smaller playstation sony tuesday showed smaller booksized playstation go sale worldwide next month help japanese electronics giant cut costs videogame consoles continue drop price,3,3,3,3
+422,supreme court hears wine sales case winemakers want ship directly consumers across state lines got sympathetic hearing supreme court today justices heard oral arguments case could dramatic effect internet commerce states power regulate alcohol trade,3,3,3,3
+423,peoplesoft waiting right price company board member testifies trial sale would possible oracle ups offer,3,3,2,2
+424,scientists study hudson river ap ap scientists plunking series hightech sensors hudson river effort unravel mysteries murky waterway,3,3,3,3
+425,sidebar microsoft enters data backup arena september computerworld chicago microsoft announcement disktodisk backup application designed consolidate data backups windows servers positions company compete storage management stalwarts veritas,3,3,3,3
+426,google launches new search tool academics google rolled new search tool called google scholar google scholar enables search specifically scholarly literature including peerreviewed papers theses books preprints abstracts,3,3,3,3
+427,digital camera print computer required big news digital photography explosion printers designed exclusively photos comparison seven printers vying business,3,3,3,3
+428,mars rovers relay images mars express european space agency esas mars express relayed pictures one nasas mars rovers first time part set interplanetary networking demonstrations demonstrations pave way future mars missions draw joint interplanetary networking capabilities,3,3,3,3
+429,privacy questions arise rfid hits stores baltimoreproponents radio frequency identification used quick easy response consumer advocates charging technology posed alarming threat privacy,3,3,3,3
+430,lg electronics unveils world first terrestrial dmbreceiving lg electronics unveiled worlds first terrestrial digital multimedia broadcastreceiving mobile phone demonstrated functions,3,3,3,3
+431,giga counters bold brash break rules business google guys multibillionaires google inc plenty celebrate recent annual summer picnic debut public company,3,3,3,3
+432,phone become credit card motorola working mastercard introduce lifestyle changing credit card phone years end,3,2,3,2
+433,astronomers ready cometsmashing mission nasa university astronomers eagerly awaiting launch space probe bound collide comet give researchers glimpse inside solar systems icy wanderers,3,3,3,3
+434,hurt microsoft neglect older browsers microsoft may find burden securing older versions windows browsers burden tough neglect hurts entire internetand leaves opening opensource replacement,3,3,3,3
+435,sun looks props new server storage hardware sun microsystems hold quarterly product launch week unleashing raft new hardware offerings spanning servers storage,3,3,3,3
+436,verizon unveils wireless retriever cell phone contacts find way new phones monthwithout thumb strain,3,3,3,3
+437,old rumors gay sex prove powerful web va gop members chose del thelma drake norfolk replace rep edward l schrock resigned amidst allegations schrock indulged solicited gay sex,3,1,3,0
+438,national geographic photo camps give kids new views new york san francisco washington dc national geographics photo camps summer paired underprivileged students seasoned photogropaphers ltigtwith photo galleryltigt,3,3,0,3
+439,bono apple promo ppnetnet news quotselect quot members press monday received invitation special apple itunes ipod promo slated october says maccentral,3,3,3,3
+440,smelly mates guide seabirds seabirds called prions mate life find nests sniffing partners scientists say,3,3,3,3
+441,ibm unveils new storage technology ibm recently unveiled totalstorage ds roughly vcrsize system aimed midsize businesses new ds series system features ibm power microprocessors ibm virtualization,3,3,3,3
+442,atlantis evidence found spain ireland bc greek philosopher plato described island called atlantis contradicting new evidence claims fabled citystate based real place,3,3,0,0
+443,computer users warned david beckham zombie trap hackers trying trick computer users downloading damaging software claiming sleazy photographs football star david beckham experts warned today,3,3,3,3
+444,drive maker files counterclaims patent suit cornice blasts seagates suit patents tiny hard drives used portable gadgets,3,3,3,3
+445,cisco debut new router family internet hardware giant cisco systems said preparing launch new family routers manage voice data applications,3,3,3,3
+446,intel helps asian pc partners ship linux techweb techweb chipmaker provides linux tools reach growing market,3,3,3,3
+447,star trek spaceship enters gateway moon european spacecraft powered star trekstyle thruster flown lunar gateway puts course reach moon monday,3,3,3,3
+448,googles horizon microsoft washingtonpostcom washingtonpostcom careful followers searchengine giant google surely took note morning reports company reiterating earlier warning future growth could fall expectations bbc news reported company warned fiercer competition set hit sales growth firm successful share flotation earlier year said rate growth second quarter third may sustainable,3,2,3,3
+449,cracks martian rock point watery past los angeles nasa mars rover opportunity found signs rocks red planet submerged water data sent opportunity suggest crater drenched second time drying scientists said,3,3,3,3
+450,microsoft use script block windows xp sp updates microsoft offered yet another way businesses block automatic update windows xp bigdeal service pack sp upgrade,3,3,3,3
+451,nasa scramjet makes historic flight california los angeles nasa unmanned quotscramjet quot proved small fast recordbreaking demonstration pacific ocean,3,3,3,3
+452,science ice thaws arctic peoples loss words science news iceland words used indigenous peoples arctic quothornet quot quotrobin quot quotelk quot quotbarn owl quot quotsalmon,3,3,3,3
+453,india get started starter edition redmond washbased software giant today announced yearlong pilot program start shipping windows xp starter edition india early,3,3,3,3
+454,gone phishing zastrossi writes quotaccording antiphishing working group phishing sitesthe practice making sites look act like popular sites banks order steal personal information customersrose sites september,3,3,3,3
+455,news governments slow mark combat growing threats cybercrime associated press robert wielaard,3,3,3,3
+456,enter email beat google make betterthat seems lesson acom amazon intriguing new search site web searches simply gives google results lot morefor instance,3,3,3,3
+457,news fbi seizes computers firstever criminal action pp network associated press curt anderson,3,3,3,3
+458,solar minimum coming soon something strange happened sun last week sunspots vanished sign say scientists solar minimum coming sooner expected,3,3,3,3
+459,light night might cancer risk ed edelson healthday reporter healthdaynews could electric light pose cancer threat might seem like wildest paranoid beliefs growing number scientists suspect might true reason turning lights dark may affect small number clock genes play major role controlling cells live die function researchers suggest,3,3,3,3
+460,house passes bill criminalize spyware fraud house thursday passed bill would criminalize use spyware commit fraud crimes adding additional two five years federal sentences,3,3,3,3
+461,google stumbles new desktop tool google wants help effectively access piles information store documents email messages web pages contact lists stuffed pc,3,3,3,3
+462,recording industry sues computer users los angeles recording industry thursday filed another round copyright infringement lawsuits people said illegally distributing songs internet,3,3,3,3
+463,calif aims limit farmrelated smog ap ap southern californias smogfighting agency went emissions bovine variety friday adopting nations first rules reduce air pollution dairy cow manure,3,3,3,3
+464,south korea lg claims development media broadcastsreceiving seoul south korea lg electronics inc announced developed world first mobile handset capable receiving terrestrial digital multimedia broadcasts dmb,3,3,0,3
+465,rocking cradle life life begin one evidential clue stems fossil records western australia although whether layered sediments biological chemical spawned spirited debate oxford researcher nicola mcloughlin describes issues contention,3,3,3,3
+466,space warrior witch icann leaders internets controversial ruling body getting visit week witchintraining space warrior centuries future,3,3,3,0
+467,uk broadband usage doubles past six months new research nop shows uk internet population progressing broadband usage per cent per cent six months ago increase females using internet,3,3,3,3
+468,human gene total falls new report international consortium laboratories decoded human genome revised estimated number human genes sharply downward,3,3,3,3
+469,ireland launches phone fraud crackdown effort stop scams cause unwitting internet users charged premium rates calls placed software surreptitiously installed pcs ireland going block outgoing calls countries,3,3,3,3
+470,poison toads leap across australia small warty poisonous enough kill crocodiles cane toad wreaked havoc parts australia experts say climate change benefiting invasive species,3,3,3,3
+471,dell adds new switch lineup dell upgraded powerconnect line addition powerconnect port managed gigabit layer switch,3,3,3,3
+472,aol beefs homeland security aol added range features ward computer viruses intrusive spyware programs spam special edition internet access package aol security edition,3,3,3,3
+473,genesis spacecraft prepares return earth piece sun dramatic ending marks beginning scientific research nasas genesis spacecraft set swing earth jettison sample return capsule filled particles sun may ultimately tell us genesis solar system,3,3,3,3
+474,dell debuts color laser printers three new models designed businesses home office users,3,3,3,3
+475,verisign touts childrens online identity token washington reuters verisign inc lta hrefhttpwwwreuterscoukfinancequotelookupjhtmltickervrsno qtypesym infotypeinfo qcatnewsgtvrsnoltagt childrens safety group unveiled new technology thursday said would make easier children avoid child predators online,3,3,3,3
+476,next space station crew launch expedition next crew live international space station iss set launch kazakhstan us astronaut leroy chiao russian cosmonaut salizhan sharipov leave baikonur cosmodrome soyuz rocket gmt thursday,3,3,0,3
+477,microsoft big fix security patch market past years viruses attacked microsoft operating system web browser email programs seemingly weekly basis,3,3,3,3
+478,spam suspension hits sohucom shares ftcom ftcom shares sohucom leading uslisted chinese internet portal fell per cent friday chinas biggest mobile phone network operator imposed oneyear suspension multimedia messaging services customers sent spam,3,3,2,3
+479,vodafone hires citi cesky bid thedealcom thedealcom uk mobile giant wants find way disentagle czech wireless fixedline businesses,3,3,3,3
+480,pharma groups work epc issues sept reacting calls pharmaceutical retailers distributors manufacturers epcglobal added new action group specifically study pharmaceutical industry,3,2,2,3
+481,instant messaging worm exploits jpeg flaw infoworld infoworld security experts spotted first attempts create internet worm propagates using instant messages exploits recently disclosed flaw microsoft software,3,3,3,3
+482,russian space agency space station crew could forced return moscow space officials russia joining american officials talking potential consequences food shortage aboard international space station,3,3,3,3
+483,hp throttles viruses hewlettpackard developed software program could slow spread computer viruses worms acting quotthrottle quot unauthroized network activity,3,3,3,3
+484,bug bites continue plague net roundup freeroaming source code breeds new netsky pest also ie opera browsers likely prey,3,3,3,3
+485,dependent species risk extinction global extinction crisis worse thought thousands quotaffiliated quot species also risk figure calculations,3,3,3,3
+486,beak scientists find secret homing pigeons sensitivity homing pigeon beak could provide answer complicated story finds way home scientists shown first time homing,3,3,3,3
+487,raised others birds use code find kind like ugly duckling cowbirds raised bird species find adults new study says password among things,3,3,3,3
+488,testimony ends evolution sticker trial atlanta testimony concluded wednesday lawsuit cobb county georgia schools placing disclaimer stickers evolution high school biology texts,3,3,2,0
+489,scitech virus gang wars web following arrest may teenage computer wizard admitted police wrote code sasser two dozen netsky viruses wreaked havoc across internet first months,3,3,3,3
+490,outsourcing dont forget security experts say outsourcing operations offshore companies often focus lower costs productivity fail keep mind cultural differences could affect security said experts gartner security summit,3,3,3,3
+491,solar sail launch date set smooth wombat writes quotget pdas set aside march date solar sail named cosmos set launched submerged russian submarine barents sea,3,3,3,3
+492,could newer browsers dethrone ie every time new ie security flaw announced whenever someone gets fed hackers manipulating web browser firefox mozillabased browsers get bump marketplace,3,3,3,3
+493,report russia may delay october space launch russia may delay october planned launch next international space station crew days fix problem spacecraft carry orbit russian news agencies reported,3,3,0,3
+494,navy awash new ibm supercomputers defense dept buy second supercomputer naval oceanographic office,3,3,0,3
+495,web still early days tech leaders say internet early adolescence raft improvements horizon venture capitalists helped fund early boom,3,2,3,3
+496,citrix buying vpn company net million boston citrix systems buying net privatelyheld maker ssl secure socket layer vpn virtual private network technology million cash citrix said tuesday,3,3,3,2
+497,cheese sandwich back ebay miami might say time ebay melted resolve ban online sale part yearold grilled cheese sandwich,3,3,3,3
+498,make hotels like home hotel operators take note todays hotel guests making nonsense roompricing strategies aggressive internetaided discounthunting,3,2,2,2
+499,cisco fujitsu team highend networking fujitsu joined networking parade agreeing sell cisco highend routers switches japan come surprise market highend routers heats,3,3,3,3
